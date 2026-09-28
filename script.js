@@ -1,5 +1,5 @@
 
-const HF_SPACE_URL = "https://hariprasath-chatbot-2-0.hf.space";
+const HF_SPACE_URL = "https://hariprasath-chatbot-2.0.hf.space";
 
 // ============================================================
 // DOM ELEMENTS
